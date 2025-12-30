@@ -37,7 +37,7 @@ export function Work() {
         "My first personal portfolio website created using HTML, CSS, and JavaScript.",
       tags: ["HTML", "CSS", "Javascript"],
       github: "https://github.com/adityamhdr10/portofolio",
-      liveUrl: "",
+      liveUrl: "https://myportofolio1-kohl.vercel.app",
     },
     {
       title: "SneakerScout",
