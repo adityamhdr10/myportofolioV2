@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website showcasing web development proje
 
 ## 🚀 Live Demo
 
-[View Portfolio](https://your-portfolio-url.com) _(Replace with your actual deployment URL)_
+[View Portfolio](https://myportofolio-kohl.vercel.app)
 
 ## 📋 Overview
 
@@ -82,11 +82,7 @@ src/
 
 ### Work
 
-- Featured projects showcase:
-  - **Bank Saving System**: Full-stack banking application (React, TypeScript, Node.js, Express, MySQL)
-  - **My Portfolio v1**: First personal portfolio (HTML, CSS, JavaScript)
-  - **SneakerScout**: Frontend sneaker discovery app (HTML, CSS, Node.js, MongoDB)
-  - **Bookers**: Book booking system (PHP, HTML, CSS, MySQL)
+- Featured projects showcase
 
 ### Contact
 
@@ -141,20 +137,15 @@ The built files will be in the `dist/` directory.
 
 ## 🤝 Contributing
 
-This is a personal portfolio project, but feel free to fork and customize for your own use!
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+This is my personal portfolio project, but feel free to fork and customize for your own use!
 
 ## 👨‍💻 Author
 
 **Aditya Mahendra**
 
-- Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
-- Email: [Your Email]
+- Portfolio: https://myportofolio-kohl.vercel.app
+- LinkedIn: www.linkedin.com/in/adityamhdr
+- Email: aditpromahendra@gmail.com
 
 ---
 
