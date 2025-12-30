@@ -1,4 +1,4 @@
-# Unique Web Developer Portfolio
+# My Portfolio V2
 
 A modern, responsive personal portfolio website showcasing web development projects and skills. Built with cutting-edge technologies for a smooth, interactive user experience.
 
